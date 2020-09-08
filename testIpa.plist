@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://10.237.2.60/mobile-stock-app/ios/builds/64644/artifacts/download</string>
+<string>itms-services:///?action=download-manifest&url=https://github.com/dabaosodmi0420/testIpa/blob/master/testIpa.plist</string>
 </dict>
 <dict>
 <key>kind</key>
