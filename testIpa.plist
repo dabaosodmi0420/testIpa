@@ -1,39 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>http://accounttest.csc108.com:8181/website/rest/testRest/download</string>
-</dict>
-<dict>
-<key>kind</key>
-<string>full-size-image</string>
-<key>needs-shine</key>
-<true/>
-<key>url</key>
-<string>https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3400492630,84234984&fm=11&gp=0.jpg</string>
-</dict>
-</array>
-<key>metadata</key>
-<dict>
-<key>bundle-identifier</key>
-<string>com.csc.zxjtzq</string>
-<key>bundle-version</key>
-<string>5.6.0</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>测试包</string>
-</dict>
-</dict>
-</array>
-</dict>
-</plist>
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+<dict>  
+    <key>items</key>  
+    <array>  
+        <dict>  
+            <key>assets</key>  
+            <array>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>software-package</string>  
+                    <key>url</key>  
+                    <string>http://accounttest.csc108.com:8181/zxjt-5.6.0-202009071833-bc2649f-test.ipa</string>  
+                </dict>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>full-size-image</string>  
+                    <key>needs-shine</key>  
+                    <true/>  
+                    <key>url</key>  
+                    <string>http://go.com/Icon@2x.png</string>  
+                </dict>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>display-image</string>  
+                    <key>needs-shine</key>  
+                    <true/>  
+                    <key>url</key>  
+                    <string>http://go.com/Icon.png</string>  
+                </dict>  
+            </array>  
+            <key>metadata</key>  
+            <dict>  
+                <key>bundle-identifier</key>  
+                <string>com.csc.zxjtzq</string>  
+                <key>bundle-version</key>  
+                <string>5.6.0</string>  
+                <key>kind</key>  
+                <string>software</string>  
+                <key>title</key>  
+                <string>安装app...</string>  
+            </dict>  
+        </dict>  
+    </array>  
+</dict>  
+</plist>  
