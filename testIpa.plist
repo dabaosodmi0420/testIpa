@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>itms-services:///?action=download-manifest&url=https://github.com/dabaosodmi0420/testIpa/blob/master/testIpa.plist</string>
+<string>http://accounttest.csc108.com:8181/zxjt-5.6.0-202009071833-bc2649f-test.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
